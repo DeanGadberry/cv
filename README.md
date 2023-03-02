@@ -1,11 +1,12 @@
 # CV
 
-LaTeX source files for Elijan Mastnak's CV.
-To compile, change into the `src` directory and run `pdflatex cv.tex`.
+LaTeX source files for Dean Gadberry's CV.
 
-### Want a PDF?
+### Original Creator
 
-See  [ejmastnak.github.io/cv/cv.pdf](https://ejmastnak.github.io/cv/cv.pdf) for an up-to-date, pre-compiled PDF.
+This TeX file is a fork of Elijan J. Mastnak's CV.
+Thank you, Elijan J. Mastnak, for your readable and usable cv.tex.
+See [ejmastnak.github.io/cv](https://ejmastnak.github.io/cv) for more information.
 
 ### License
 
