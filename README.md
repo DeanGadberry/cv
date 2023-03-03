@@ -14,7 +14,7 @@ This TeX file is a fork of Elijan J. Mastnak's CV.
 
 Thank you, Elijan J. Mastnak, for your readable and usable cv.tex.
 
-See [ejmastnak.github.io/cv](https://ejmastnak.github.io/cv) for more information.
+See [https://www.ejmastnak.com/resume.pdf](ejmastnak.com/resume.pdf) for more information.
 
 ### License
 
